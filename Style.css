@@ -1,0 +1,175 @@
+html,body{
+	margin: 0;
+    padding: 0;
+	font-family:Arial;
+	}
+
+.Home_body{
+	background-image: url("img/Home.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+	height:100%;
+	width:100%;
+}
+
+.BParts_body{
+	background-image: url("img/Body.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+	height:100%;
+	width:100%;
+}
+	
+.login_body{
+	
+	background-image: url("img/Login.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+	height:100%;
+	width:100%;
+}
+
+.Reg_body{
+	
+	background-image: url("img/Register.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+	height:100%;
+	width:100%;
+	margin-right:50%;
+}
+
+.BMR_body{
+	
+	background-image: url("img/BMR.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+	height:100%;
+	width:100%;
+	margin-right:50%;
+}
+
+.Calories_body{
+	background-image: url("img/Calculator.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+	height:100%;
+	width:100%;
+	margin-right:50%;
+}
+
+.Calc_TextBox {
+	background: #D6D7D9;
+	color:#323A45;
+	width: 50%;
+	border: 0;
+	padding: 5px;
+	font-size: 14px;
+}
+
+.Calc_DropBox{
+	background: #D6D7D9;
+	color:#323A45;
+	border: 0;
+	padding: 5px;
+	margin-right:20px;
+	font-size: 14px;
+}
+
+.calc_table_td{
+	vertical-align: middle;
+
+}
+
+.calc_table_th{
+	vertical-align: middle;
+	height:35px;
+	font-weight:bold;
+	padding-top: 15px;
+}
+
+.calc_table{
+	margin-left: 5%;
+	margin-top:5px;
+}
+
+.Home_Sidebar{
+	height:100%;
+	position:fixed;
+	overflow:hidden;
+	color:#000;
+	padding-bottom: 100px;
+	}
+
+.Sidebar{
+	height:100%;
+	background-color:#e7eaf6;
+	position:fixed;
+	overflow:hidden;
+	color:#000;
+	padding-bottom: 100px;
+	}
+
+.Home_Sidebar_Content{
+	margin-left:25%;
+	margin-top: 35%;
+}
+
+.BParts_Sidebar_Content{
+	margin-top: 5%;	
+}
+
+.login_form{
+	margin-left:25%;
+	margin-top: 13%;
+}
+.Register_form{
+	
+	margin-left:25%;
+	margin-top: 8%;
+}
+
+.BMR_form{
+	
+	margin-left:25%;
+	margin-top: 2%;
+}
+
+.TextBox {
+  background: #D6D7D9;
+  color:#323A45;
+  width: 50%;
+  border: 0;
+  margin: 0px 0 0px;
+  padding: 15px;
+  font-size: 14px;
+  margin-bottom:15px;
+}
+
+.Button {
+    background: #f78a0e;
+    border:none;
+    width: 20%;
+    margin: 0 0 15px;
+    padding: 15px;
+    font-size: 14px;
+    color:#fff;
+    font-weight:bold;
+	margin-top:5px;
+	border-radius:3px;
+
+}
+
+.Button:Hover 
+{
+    background:#ef7d02;
+}
+
+
+
